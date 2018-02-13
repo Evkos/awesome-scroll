@@ -1,0 +1,5 @@
+#header h1 {
+	background: url(transparent.gif);
+	filter: progid:dximagetransform.microsoft.alphaimageloader(src='images/logo.png', sizingmethod='crop');
+}
+* html #page{height:100%;overflow:visible;}
